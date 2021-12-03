@@ -1,0 +1,14 @@
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/bin/Debug/phonebook.exe.config
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/bin/Debug/phonebook.exe
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/bin/Debug/phonebook.pdb
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/bin/Debug/EntityFramework.dll
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/bin/Debug/EntityFramework.SqlServer.dll
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/bin/Debug/EntityFramework.xml
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/bin/Debug/EntityFramework.SqlServer.xml
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/obj/Debug/phonebook.csprojAssemblyReference.cache
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/obj/Debug/phonebook.csproj.CoreCompileInputs.cache
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/obj/Debug/phonebook.csproj.CopyComplete
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/obj/Debug/phonebook.exe
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/obj/Debug/phonebook.pdb
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/obj/Debug/phonebook.Migrations.AddContacts.resources
+/home/mossila/Documents/practicas .NET/phonebook/phonebook/obj/Debug/phonebook.csproj.GenerateResource.cache
